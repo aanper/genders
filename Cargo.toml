@@ -1,0 +1,6 @@
+[package]
+name = "genders"
+version = "0.1.0"
+authors = ["Samuel <haveachillday@gmail.com>"]
+
+[dependencies]
