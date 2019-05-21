@@ -3,6 +3,6 @@ name = "genders"
 version = "0.1.0"
 authors = ["Samuel <haveachillday@gmail.com>"]
 description = "..."
-license = "..."
+license = "WTFPL"
 repository = "https://github.com/DoubleCouponDay/genders"
 [dependencies]
