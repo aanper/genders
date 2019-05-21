@@ -1,8 +1,8 @@
 [package]
 name = "genders"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Samuel <haveachillday@gmail.com>"]
-description = "..."
+description = "enumerate genders in rust."
 license = "WTFPL"
 repository = "https://github.com/DoubleCouponDay/genders"
 [dependencies]
